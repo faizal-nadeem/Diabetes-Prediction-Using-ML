@@ -26,12 +26,13 @@ It is built in **Python** and deployed as a **Streamlit web app**.
 5. **Run the web app**
     streamlit run app.py
 
-📊 Dataset
+# 📊 Dataset:-
 
 We used the PIMA Indians Diabetes Dataset (from Kaggle/UCI repository).
 It contains health information of women (≥21 years old).
 
-    Features include:
+# Features include:-
+
     Pregnancies
     Glucose
     Blood Pressure
@@ -41,7 +42,7 @@ It contains health information of women (≥21 years old).
     Diabetes Pedigree Function
     Age
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack:-
 
     Python
     scikit-learn
@@ -49,12 +50,13 @@ It contains health information of women (≥21 years old).
     Streamlit
     Joblib
 
-📈 Model Performance
+# 📈 Model Performance:-
 
     Support Vector Machine (SVM) → ~75% Accuracy
     Logistic Regression → ~76% Accuracy
     Balanced Precision, Recall, and F1-Score
 
-⚠️ Warning
+# ⚠️ Warning:-
+
     This project uses a small dataset (PIMA) and is meant only for practice/learning purposes.
     It should not be used for actual medical diagnosis. Always consult a qualified healthcare professional for real medical advice.
